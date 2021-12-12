@@ -1,5 +1,5 @@
-epub
-libepub.so
+epubtext
+libepubtext.so
 nim.cfg
 *.epub
 deps/
